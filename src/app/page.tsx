@@ -93,11 +93,11 @@ export default function LandingPage() {
           <TestimonialCardTwelve
             useInvertedBackground={false}
             testimonials={[
-              { id: "1", name: "Elena M.", imageSrc: "https://pixabay.com/get/g71bc4a7894b669112fbfdd609a11c20d2c07461e74584f07914f37501d898b95ae20bf2f8cd50338f5ce50caebb9ee4d82fa0c0124713807739a5ee7554b06a9_1280.jpg" },
+              { id: "1", name: "Elena M.", imageSrc: "https://pixabay.com/get/g71bc4a7894b669112fbfdd609a11c20d2c07461e74584f07914f37501d898b95ae20bf2f8cd50338f5ce50caebb9ee4d82fa0c0124713807739a5ee7554b06a9_1280.jpg?_wi=1" },
               { id: "2", name: "Marcus R.", imageSrc: "https://pixabay.com/get/gdbb23c3ed6563efb1f54fa03c2dcb719e3c1e8f070cc829305c80eac1db216ddebab3fe659d811f9d52e8f798f74d6f97030dbdb8d708301d0f5f9d0d5be9683_1280.jpg" },
               { id: "3", name: "Sofia L.", imageSrc: "https://pixabay.com/get/g3f47466cfdd3b9f6658937c507ae4f5a6c860596835d7c2b5dcb558c9ffd9d42780f19f2b17350de8de243c1b042638abaf7e597bda78e84446387fac418a994_1280.jpg" },
               { id: "4", name: "David K.", imageSrc: "https://pixabay.com/get/gdc4f5151bcd295a772dc611a57a177eec4c67e9ae402c853ae1062797df832220d62538015a5e527a447c92eb2390623a16d712e6311bef579165ac951575ced_1280.jpg" },
-              { id: "5", name: "Sarah J.", imageSrc: "https://pixabay.com/get/g71bc4a7894b669112fbfdd609a11c20d2c07461e74584f07914f37501d898b95ae20bf2f8cd50338f5ce50caebb9ee4d82fa0c0124713807739a5ee7554b06a9_1280.jpg" }
+              { id: "5", name: "Sarah J.", imageSrc: "https://pixabay.com/get/g71bc4a7894b669112fbfdd609a11c20d2c07461e74584f07914f37501d898b95ae20bf2f8cd50338f5ce50caebb9ee4d82fa0c0124713807739a5ee7554b06a9_1280.jpg?_wi=2" }
             ]}
             cardTitle="What Guests Say"
             cardTag="Testimonials"
