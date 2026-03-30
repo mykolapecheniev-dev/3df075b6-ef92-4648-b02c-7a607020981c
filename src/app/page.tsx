@@ -178,7 +178,7 @@ export default function LandingPage() {
         {
           id: "1",
           name: "Elena M.",
-          imageSrc: "https://pixabay.com/get/g71bc4a7894b669112fbfdd609a11c20d2c07461e74584f07914f37501d898b95ae20bf2f8cd50338f5ce50caebb9ee4d82fa0c0124713807739a5ee7554b06a9_1280.jpg",
+          imageSrc: "https://pixabay.com/get/g71bc4a7894b669112fbfdd609a11c20d2c07461e74584f07914f37501d898b95ae20bf2f8cd50338f5ce50caebb9ee4d82fa0c0124713807739a5ee7554b06a9_1280.jpg?_wi=1",
         },
         {
           id: "2",
@@ -198,7 +198,7 @@ export default function LandingPage() {
         {
           id: "5",
           name: "Sarah J.",
-          imageSrc: "https://pixabay.com/get/g71bc4a7894b669112fbfdd609a11c20d2c07461e74584f07914f37501d898b95ae20bf2f8cd50338f5ce50caebb9ee4d82fa0c0124713807739a5ee7554b06a9_1280.jpg",
+          imageSrc: "https://pixabay.com/get/g71bc4a7894b669112fbfdd609a11c20d2c07461e74584f07914f37501d898b95ae20bf2f8cd50338f5ce50caebb9ee4d82fa0c0124713807739a5ee7554b06a9_1280.jpg?_wi=2",
         },
       ]}
       cardTitle="What Guests Say"
